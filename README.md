@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **ChristopherCaysido/ChristopherCaysido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RResabala2015&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
