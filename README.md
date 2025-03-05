@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images8.alphacoders.com/946/946015.jpg" align="center" style="width: 80vh, height 10vh, overflow:hidden" />
+<img src="https://images8.alphacoders.com/946/946015.jpg" align="center" style="width: 80vw, height 400px, overflow:hidden" />
 </div>  
   
 
